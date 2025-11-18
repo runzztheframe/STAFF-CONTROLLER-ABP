@@ -1,0 +1,21 @@
+{
+  "data_folder": "C:/Users/MC/Downloads/12",
+  "theme": "dark",
+  "language": "khmer",
+  "auto_backup": true,
+  "backup_interval": 24,
+  "max_backups": 5,
+  "export_format": "excel",
+  "default_department": "IT",
+  "auto_save": true,
+  "notifications": true,
+  "photo_quality": 85,
+  "photo_max_size": 400,
+  "date_format": "YYYY-MM-DD",
+  "currency_symbol": "$",
+  "font_size": 10,
+  "company_name": "ក្រុមហ៊ុនរបស់អ្នក",
+  "company_logo": "",
+  "security_level": "medium",
+  "session_timeout": 30
+}
